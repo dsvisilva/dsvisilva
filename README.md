@@ -30,11 +30,6 @@ Meu objetivo é evoluir constantemente, criando soluções limpas e funcionais, 
 
 ---
 
-## 📊 Estatísticas do GitHub  
-![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsvisilva&show_icons=true&theme=default)  
-
----
-
 ## 📈 Tecnologias mais utilizadas  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsvisilva&layout=compact&theme=default)  
 
