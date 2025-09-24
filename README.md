@@ -31,7 +31,7 @@ Meu objetivo é evoluir constantemente, criando soluções limpas e funcionais, 
 ---
 
 ## 📈 Tecnologias mais utilizadas  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsvisilva&layout=compact&theme=default&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsvisilva&layout=compact&theme=default)
 
 ---
 
