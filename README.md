@@ -1,7 +1,7 @@
 # 👨‍💻 Davi Silva  
 
 ## Sobre mim  
-Sou estudante de **Desenvolvimento Full Stack** pelo DevClub, atualmente focado em **fundamentos de programação e desenvolvimento web**. Tenho experiência prática em **HTML e CSS**, além de utilizar **Git e GitHub** para versionamento de projetos.  
+Sou estudante de **Desenvolvimento Full Stack** pelo DevClub, atualmente focado em **fundamentos de programação e desenvolvimento web**. Tenho experiência prática em **HTML, CSS e JavaScript**, além de utilizar **Git e GitHub** para versionamento de projetos.  
 
 Meu objetivo é evoluir constantemente, criando soluções limpas e funcionais, sempre com foco em **boas práticas de código** e **organização**.  
 
