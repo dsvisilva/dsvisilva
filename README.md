@@ -3,7 +3,7 @@
 ## Sobre mim  
 Sou estudante de **Desenvolvimento Full Stack** pelo DevClub, atualmente focado em **fundamentos de programação e desenvolvimento web**. Tenho experiência prática em **HTML, CSS e JavaScript**, além de utilizar **Git e GitHub** para versionamento de projetos.  
 
-Meu objetivo é evoluir constantemente, criando soluções limpas e funcionais, sempre com foco em **boas práticas de código** e **organização**.  
+Meu objetivo é evoluir constantemente, criando soluções limpas e funcionais, sempre com foco em **boas práticas de código**, **organização** e **aprendizado contínuo**.  
 
 ---
 
@@ -19,6 +19,12 @@ Meu objetivo é evoluir constantemente, criando soluções limpas e funcionais, 
 ## 📚 Em aprendizado  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 
+Atualmente me aprofundando em **JavaScript**, entendendo conceitos como:
+- Manipulação de DOM  
+- Funções, arrays e objetos  
+- Estruturas condicionais e loops  
+- Boas práticas de código e modularização  
+
 ---
 
 ## 📌 Habilidades  
@@ -26,6 +32,7 @@ Meu objetivo é evoluir constantemente, criando soluções limpas e funcionais, 
 - Estruturação semântica e boas práticas com HTML5  
 - Estilização moderna e responsiva com CSS3  
 - Controle e versionamento de código com GitHub  
+- Lógica de programação e fundamentos de JavaScript  
 - Organização e aprendizado contínuo  
 
 ---
@@ -38,6 +45,7 @@ Meu objetivo é evoluir constantemente, criando soluções limpas e funcionais, 
 ## 📫 Contato  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dsvisilva/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sdavih06@gmail.com)  
+
 <!--
 **dsvisilva/dsvisilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
